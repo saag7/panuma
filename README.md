@@ -1,26 +1,34 @@
-# Panuma
+<div align="center">
+  
+ ![Logo](https://github.com/saag7/panuma/blob/main/logo_panuma.png)
+</div>
 
-![Logo](https://github.com/saag7/panuma/blob/main/logo_panuma.png)
+<div align="center">
+  
+  [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/saag7/panuma)
+  [![Stars](https://img.shields.io/github/stars/saag7/repository.svg)](https://github.com/saag7/panuma)
+</div>
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/saag7/panuma)
-[![Stars](https://img.shields.io/github/stars/saag7/repository.svg)](https://github.com/saag7/panuma)
+<div align="center">
+  
+  # Panuma
+</div>
 
-
-
-**Simplified Imports for Data Science Essentials**
+<div align="center">
+  
+  **Simplified Imports for Data Science Essentials**
+</div>
 
 ## Overview
+`Panuma` streamlines your data science workflow by providing a single import point for three libraries: `pandas`, `numpy`, and `matplotlib`. Simplify your code's header with one concise line:
 
-`Panuma` streamlines your data science workflow by providing a single import point for three foundational libraries: `pandas`, `numpy`, and `matplotlib.pyplot`. Simplify your code's header with one concise line:
+### Installation
 
-## Installation
+| Command | Description |
+| --- | --- |
+| `pip install panuma` | Install `panuma` using pip |
 
-To install `panuma`, run the following command in your terminal:
-```python
-pip install panuma
-```
+### To run
 
-## To run
 ```python
 from panuma import pd, np, plt
-```
