@@ -7,6 +7,8 @@
   
   [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/saag7/panuma)
   [![Stars](https://img.shields.io/github/stars/saag7/panuma.svg)](https://github.com/saag7/panuma)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/saag7/panuma/blob/main/LICENSE)
+</div>
 </div>
 
 <div align="center">
