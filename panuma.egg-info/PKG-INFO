@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: panuma
+Version: 1.0.0
+Summary: A convenience package for importing pandas, numpy, and matplotlib.pyplot
+Home-page: https://github.com/saag7/panuma
+Author: saag7
+Author-email: salomon.agboto7@gmail.com
+License: MIT
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+
+# Panuma
+================
+
+**Simplified Imports for Data Science Essentials**
+
+## Overview
+
+`Panuma` streamlines your data science workflow by providing a single import point for three foundational libraries: `pandas`, `numpy`, and `matplotlib.pyplot`. Simplify your code's header with one concise line:
+
+```python
+from panuma import pd, np, plt
