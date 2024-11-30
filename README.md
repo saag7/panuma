@@ -19,6 +19,8 @@
   **Simplified Imports for Data Science Essentials**
 </div>
 
+<div align="center">
+  
 ## Overview
 `Panuma` streamlines your data science workflow by providing a single import point for three libraries: `pandas`, `numpy`, and `matplotlib`. Simplify your code's header with one concise line:
 
@@ -32,3 +34,5 @@
 
 ```python
 from panuma import pd, np, plt
+```
+</div>
