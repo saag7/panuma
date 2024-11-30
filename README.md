@@ -6,7 +6,7 @@
 <div align="center">
   
   [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/saag7/panuma)
-  [![Stars](https://img.shields.io/github/stars/saag7/repository.svg)](https://github.com/saag7/panuma)
+  [![Stars](https://img.shields.io/github/stars/saag7/panuma.svg)](https://github.com/saag7/panuma)
 </div>
 
 <div align="center">
